@@ -55,7 +55,7 @@ async def dm(client: Client, message: Message):
 add_command_help(
     "dm",
     [
-        [".dm", "Give a Message to Dm (ex: `.dm @Timesisnotwaiting Hii`."],
+        [".dm", "Give a Message to Dm (ex: `.dm @DushmanXRONIN Hii`."],
         ["/dm", "Give a message to Dm (Sudo-Users)."],
     ],
 )
