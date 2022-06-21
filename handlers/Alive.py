@@ -281,7 +281,7 @@ async def alive(client: Client, e: Message):
         ),
     ) 
     except Exception as lol:         
-        Alive_msg = f"𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
+        Alive_msg = f" SENKU 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
         Alive_msg += f"► ᴠᴇʀsɪᴏɴ : `Beta.0.1` \n"
         Alive_msg += f"► Pʏʀᴏ ᴠᴇʀsɪᴏɴ : `1.4.15` \n"
